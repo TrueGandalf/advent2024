@@ -11,6 +11,8 @@ internal class Program
         //var result2 = _3_1.Do();
         //var result2 = _3_2.Do();
         //var result2 = _4_1.Do();
-        var result2 = _4_2.Do();
+        //var result2 = _4_2.Do();
+        //var result2 = _5_1.Do();
+        var result2 = _5_2.Do();
     }
 }
